@@ -1,7 +1,7 @@
 from typing import List
 import pytest
 from common.listnode import ListNode
-from easy.add_two_sum import Solution
+from easy._2_add_two_numbers import Solution
 
 
 @pytest.fixture
