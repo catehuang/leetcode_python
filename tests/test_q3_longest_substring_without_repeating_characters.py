@@ -1,5 +1,5 @@
 import pytest
-from medium._3_longest_substring_without_repeating_characters import Solution
+from medium.q3_longest_substring_without_repeating_characters import Solution
 
 
 @pytest.fixture

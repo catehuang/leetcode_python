@@ -1,5 +1,5 @@
 import pytest
-from easy._1_two_sum import Solution
+from easy.q1_two_sum import Solution
 
 
 @pytest.fixture
